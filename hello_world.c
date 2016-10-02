@@ -8,7 +8,3 @@ int main()
 	return 0;
 }
 
-/* Hi there,
-
-   I want to add a comment
-*/
