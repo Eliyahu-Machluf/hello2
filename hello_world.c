@@ -8,4 +8,3 @@ int main()
 	return 0;
 }
 
-/* add a comment here */
