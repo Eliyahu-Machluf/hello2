@@ -7,4 +7,3 @@ int main()
 	printf( "Hello World!\n%s\n", HELLO_SECOND_LINE );
 	return 0;
 }
-/* this is MY COMMENT! */
