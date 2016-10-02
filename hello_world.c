@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-HERE THE MASTER BRANCH UPDATED A LINE ...
+HERE THE MASTER BRANCH updated something here
 
 #include "hello.h"
 int main()
